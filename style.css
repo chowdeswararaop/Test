@@ -112,9 +112,10 @@ input:focus{
     height: 80%;
     width: 80%;
     background-color: white;
-    text-align: center; 
-    align-self: center;
-    padding-top:5rem ;
+     /* text-align: center;
+    align-self: center; 
+    padding-top:6rem ; */
+    padding:25%;
 } 
 
 
@@ -213,7 +214,7 @@ input:focus{
         
     
         display: flex;
-        flex-flow: row;
+        flex-flow: row; 
         align-items:flex-end;
         justify-content:start;
          padding-bottom:1rem;
