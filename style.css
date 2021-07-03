@@ -207,15 +207,16 @@ input:focus{
         display: flex;
         flex-flow: row; 
         align-items:center;
-        justify-content:center;
+        justify-content:flex-start;
          padding-bottom:1rem;
-         font-size: 1.25rem;
+         font-size: 1.4rem;
     
     } 
     .icon{
         width: 30%;
         height: 60%;
-        padding-left:.5rem;
+        padding-right:.5rem;
+;
     }
     .icon-header{
         width: 60%;
@@ -245,7 +246,7 @@ input:focus{
     .main-text-3{
         height: 40%;
         width: 100%;
-        padding-top: 5rem;
+        padding-top: 4rem;
         text-align: center;
         align-self: flex-start; 
     }
