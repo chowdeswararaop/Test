@@ -112,10 +112,9 @@ input:focus{
     height: 80%;
     width: 80%;
     background-color: white;
-     /* text-align: center;
+     text-align: center;
     align-self: center; 
-    padding-top:6rem ; */
-    padding:25%;
+    padding-top:6rem ;
 } 
 
 
