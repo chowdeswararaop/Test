@@ -206,8 +206,8 @@ input:focus{
     
         display: flex;
         flex-flow: row; 
-        align-items:flex-end;
-        justify-content:start;
+        align-items:center;
+        justify-content:center;
          padding-bottom:1rem;
          font-size: 1.25rem;
     
@@ -247,6 +247,6 @@ input:focus{
         width: 100%;
         padding-top: 5rem;
         text-align: center;
-       align-self: flex-start; 
+        align-self: flex-start; 
     }
 }
