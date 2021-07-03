@@ -110,7 +110,7 @@ input:focus{
     grid-row: 4/7;
     grid-column: 3/5;
     height: 80%;
-    width: 80%;
+    width: 70%;
     background-color: white;
      text-align: center;
      align-self: center; 
@@ -143,6 +143,7 @@ input:focus{
     }
     .main-text-3{
         height: 60%;
+        width: 70%;
     } 
     input::placeholder{
         font-size: 1.6rem;
@@ -152,17 +153,7 @@ input:focus{
 
 }
 
-@media (max-width:40.62em){
-    html{
-        font-size:40.62% ;
-    }
-    .search-box{
-        height: 60%; 
-    }
-    .main-text-3{
-        height: 50%;
-    } 
-}
+
 
 @media (max-width:40.62em){
     html{
